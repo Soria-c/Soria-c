@@ -12,7 +12,7 @@
 ![HTML5](https://img.shields.io/badge/HTML-3DDC84?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)</br>
 ![CSS](https://img.shields.io/badge/CSS-3DDC84?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)</br>
 ![Linux](https://img.shields.io/badge/Linux-3DDC84?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)</br>
-![.NET](https://img.shields.io/badge/.NET-3DDC84?style=for-the-badge&logo=.NET#&logoColor=white&labelColor=101010)</br>
+![.NET](https://img.shields.io/badge/.NET-3DDC84?style=for-the-badge&logo=.NET&logoColor=white&labelColor=101010)</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soria-c&show_icons=true&theme=radical)
 
