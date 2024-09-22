@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/znFOMXuHVkV36qzdbJ/giphy.gif" />
 </div>
-<p align="center">I am a full-stack web development student but more inclined towards back-end development</p>
+<p align="center">Full stack and ML developer</p>
 
 ### Skills
 ![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
